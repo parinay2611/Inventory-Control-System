@@ -1,5 +1,4 @@
 # INVENTORY-MANAGEMENT-SYSTEM
-# INVENTORY-MANAGEMENT-SYSTEM
 This repository is having all the codes used in AI/ML Skill India Scholaship Assignment on Inventory Management System.
 
 ### About the repository
